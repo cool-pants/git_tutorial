@@ -1,3 +1,3 @@
-names = ["cool-pants","cool-pants-from-apple"]
+names = ["cool-pants","cool-pants-apple"]
 for name in names:
     print("Hello "+ name)
